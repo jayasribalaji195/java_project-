@@ -1,0 +1,25 @@
+# Compiled class files
+target/
+*.class
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.mv.db
+*.trace.db
+
+# Generated audit reports
+placement_audit_report.txt
+
+# IntelliJ IDEA project files (keep .run configurations)
+.idea/*
+!.idea/.gitignore
+!.run/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
